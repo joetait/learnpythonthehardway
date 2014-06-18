@@ -1,0 +1,57 @@
+* print is a command, followed by a string in quotations (single or double), which prints whatever is in the quotes to the screen
+
+* A comment can be made in python by typing hash (#)
+
+* We have maths symbols. In particular we can use +, -, *, /, % (modulus), <, >, <=, >=
+
+* We can insert a variable in what is going to be print by ending the current string with a " or ', putting a comma, the variable or number that we want to insert, and then (if we want to put print more) another comma followed by another string or variable
+
+* Assign variables using =
+
+* We can insert a variable in to a string by putting, %s, or %d, or %r (basically  % followed by the relevant letter) in to the string. Then, after the string, insert "% variable_name". If there is more than one variable to be put in, put them in order, and put brackets around them
+
+* We can add variables before inserting them (e.g. "string %d" % 1+2)
+
+* We can "add" strings - e.g. print "This" + "and that" 
+
+* A comma can be used to end the line of code without ending the line it outputs on
+
+* We can set a variable to have %r, %d etc in its definition
+
+* We can use """ or ''' to allow line breaks etc in printing. We can also use the command \n to start a new line in the output
+
+* There are other escape characters, like \\, \', \"\t etc
+
+* The command raw_input() stops the program and waits for an input from the user. A variable can then be set to be equal to this input. A comment or prompt can be made in the brackets
+
+* If a string precedes raw input a comma needs to be used
+
+* To get inputs from the user when the program is run, use the line "from sys import argv". Then, later, one can set a, b, c ... = argv to unpack it
+
+* The first variable when unpacking argv will always be the name of the script
+
+* We can run "text = open(filename)" to set text to be that file
+
+* We can run "read()" on a file to output the contents
+
+* pydoc foo looks for python documentation on foo
+
+* Files can be opened in append, write or read mode
+
+* We can also run ".truncate()" to delete a file and ".write(foo)" to write to a file. The file needs to opened in append or write mode to do this
+
+* We can use len() to check the length of a file, and exists() to check that the file exists
+
+* Functions are given by:
+    def function_name(arg1, arg2):
+        some stuff
+
+* One can do operations in the arguments given to a function
+
+* One can get an output from a function by using "return", followed by what you want to be returned
+
+* ".seek(0)" sets the file back to the first line for writing etc
+
+
+
+
