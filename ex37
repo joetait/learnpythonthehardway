@@ -1,0 +1,61 @@
+* and - Applies the and operator to two inputs
+
+* del - deletes a variable, function, class etc from the program
+
+* from - used to specify which module one should import a command from
+
+* not - gives false if true, and vice-versa
+
+* while - run program as long as a certain condition is true
+
+* as - Change name of imported command/module
+
+* elif - else if; use if require more than two options
+
+* global - make a local variable globally defined
+
+* or - logical statement
+
+* with - automatically account for exceptions
+
+* assert - Check if something is true or false
+
+* else - used with if
+
+* if - check if a statement is true, and perform task if it is true
+
+* pass - placeholder
+
+* yield - gives output, but only to be used once, in order to save memory
+
+* break - stops procedure where it currently is
+
+* except - used with try, to catch errors and other things
+
+* import - tell python what commands to import from a module
+
+* print - output a string
+
+* class - relates functions and variables in one class, so they are related
+
+* exec - compile and run a string
+
+* in - used with for to run over a list 
+
+* raise - raises an exception (i.e. an error)
+
+* continue - goes to next part of loop/for statement. Increases readability
+
+* finally - use with try and except, to make sure that a command is completed
+
+* is - check whether to objects are the same
+
+* return - give output after running function, for statement etc
+
+* def - define a function
+
+* for - run something as long as some condition holds
+
+* try - try to do something, probably with an except afterwards
+
+* lambda - one line, unnamed function
